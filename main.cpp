@@ -1,6 +1,6 @@
 #include <iostream>
-#include "dialog.h"
-#include "PCB.h"
+#include "dialog.hpp"
+#include "PCB.hpp"
 
 //LAB3B
 

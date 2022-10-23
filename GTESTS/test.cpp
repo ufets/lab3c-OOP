@@ -1,4 +1,7 @@
-//
-// Created by Comp on 23.10.2022.
-//
-
+#include "gtest/gtest.h"
+#include "../PCB.hpp"
+#include "../dialog.hpp"
+int main()
+{
+    PCB pcb(1);
+}

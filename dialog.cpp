@@ -1,6 +1,6 @@
 #include <iostream>
-#include "dialog.h"
-#include "actions.h"
+#include "dialog.hpp"
+#include "PCB.hpp"
 
 void D::Menu(PCB& pcb)
 {
